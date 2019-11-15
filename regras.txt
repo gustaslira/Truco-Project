@@ -1,0 +1,9 @@
+Ordem das cartas (do maior para o menor):
+[3, 2, A, K, Q, J, 7, 6, 5, 4]
+
+Manilhas: 4 de Paus, 7 de Copas, A de Espadas, 7 de Ouros
+
+A dupla que jogar a maior carta na rodada (melhor de 3) ganha o ponto.
+A dupla que fizer 12 pontos primeiro vence.
+
+Obs: No caso de a rodada terminar empatada, o time 1 ganha os pontos.
